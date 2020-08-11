@@ -1,0 +1,2 @@
+# UsedCarsInformationQueryAnalysisSystem
+This system contains information on US used car transactions for nearly 50 years, covering detailed data such as year, brand, model, parameters, price, mileage, region, and vehicle condition. Users can set query conditions to find relevant information. The system also supports 7 complex query modes, which can help analyze the trend of some relevant data over time, the query results are displayed in the form of charts.
